@@ -6,3 +6,6 @@ imagenes
 <img width="154" height="190" alt="rosi" src="https://github.com/user-attachments/assets/0ced35fa-4ae4-4a7c-8c19-519a5b8e3bc9" />
 <img width="148" height="153" alt="flor" src="https://github.com/user-attachments/assets/ec4e2e83-2b31-462a-a538-d8804112debe" />
 <img width="175" height="160" alt="flores" src="https://github.com/user-attachments/assets/8427b22f-f277-4c7a-ad70-9174c0568029" />
+![empleado](https://github.com/user-attachments/assets/c6a60391-044d-4290-af14-d0a5bd05e3ff)
+
+![empleado](https://github.com/user-attachments/assets/210f4872-39f0-4ec8-a8ed-561cefc26d4b)
