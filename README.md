@@ -9,3 +9,4 @@ imagenes
 ![empleado](https://github.com/user-attachments/assets/c6a60391-044d-4290-af14-d0a5bd05e3ff)
 
 ![empleado](https://github.com/user-attachments/assets/210f4872-39f0-4ec8-a8ed-561cefc26d4b)
+<img width="287" height="191" alt="empleado" src="https://github.com/user-attachments/assets/c00f22f3-ca63-430e-b971-80835ce04a2f" />
